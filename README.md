@@ -1,4 +1,4 @@
-<img width="1220" height="320" alt="image" src="https://github.com/user-attachments/assets/387cda47-dc5f-490e-8934-3127e57702fe" />
+<img width="1220" height="370" alt="image" src="https://github.com/user-attachments/assets/a5a1c8d4-08ea-473c-bbca-a827c1672423" />
 
 <!--
 **greykaizen/greykaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Syed Ali</h1>
 -->
-<h3 align="center">A passionate Developer, Engineer, Builder, Automator.</h3>
+<h3 align="center">I build automated, intelligent systems.</h3>
+<p align="center">
+Automation • Data-Driven Development • System Design • Open Source
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greykaizen&label=Profile%20views&color=0e75b6&style=flat" alt="greykaizen" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/greykaizen"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/greykaizen"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:hello@greykaizen.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://greykaizen.dev"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://dev.to/greykaizen"><img src="https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
+
+- 🧠 Currently developing [ThreatChain](https://github.com/greykaizen/ThreatChain): a provenance-aware threat intelligence pipeline.  
+- 🧩 Exploring **AI/ML**, **Data Engineering**, and **workflow automation** to connect tools and intelligence.  
+- 🤝 Open to collaborating on automation frameworks and open data pipelines.  
+- ✍️ Writing at [dev.to/greykaizen](https://dev.to/greykaizen) about systems design and applied machine learning.
+<!--
+
+<h3 align="center">i develop softwares, automate workflows and design </h3>
 
 - 🔭 I’m currently working on [ThreatChain](https://github.com/greykaizen/ThreatChain)
 
@@ -26,10 +43,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [tur](https://github.com/greykaizen/tur)
 
 - 📝 I regularly write articles on [https://dev.to/greykaizen](https://dev.to/greykaizen)
-
+-->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Feeds Are Broken — And We’re Fixing the Trust Problem No One Talks About](https://dev.to/greykaizen/threat-intelligence-feeds-are-broken-and-were-fixing-the-trust-problem-no-one-talks-about-2eba)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
