@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Intelligence Feeds Are Broken — And We’re Fixing the Trust Problem No One Talks About](https://dev.to/greykaizen/threat-intelligence-feeds-are-broken-and-were-fixing-the-trust-problem-no-one-talks-about-2eba)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
